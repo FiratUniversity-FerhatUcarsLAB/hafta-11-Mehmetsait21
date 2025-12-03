@@ -25,3 +25,17 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+Sıra,Metot Çerçevesi,Parametreler,Yerel Değişkenler
+3,ping() (Aktif),"strangStrung: ""not """,Yok
+2,zoop(),"fred: ""just for"", bob: 5",Yok
+1,main(String[] args),args: (Dizi),"bizz: 5, buzz: 2" 
+
+ Sıra,Metot Çerçevesi,Parametreler,Yerel Değişkenler
+3,zoop() (Aktif),"fred: ""breakfast "", bob: 4",Yok
+2,clink(),fork: 4,Yok
+1,main(String[] args),args: (Dizi),"bizz: 5, buzz: 2"
+cıktı 
+    just for
+any not more 
+It's breakfast 
+!
